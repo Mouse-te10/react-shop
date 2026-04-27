@@ -15,3 +15,4 @@ CSS
 React-icons
 Git
 -------------------------
+<img width="1920" height="961" alt="изображение" src="https://github.com/user-attachments/assets/8d388cc8-53a1-4213-8e31-a7963f958e82" />
