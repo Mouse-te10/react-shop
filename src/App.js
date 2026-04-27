@@ -28,7 +28,7 @@ class App extends React.Component {
         {
           id: 2,
           title: 'Стол',
-          img: 'Table.jpeg',
+          img: 'table.jpeg',
           desc: 'Lorem inpum dolor sit amet, consectetur adipisicing',
           category: 'tables',
           price: '149.99',
